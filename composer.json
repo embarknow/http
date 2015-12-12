@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "EmbarkNow\\Http": "src/"
+            "EmbarkNow\\Http\\": "src/"
         }
     },
     "autoload-dev": {
